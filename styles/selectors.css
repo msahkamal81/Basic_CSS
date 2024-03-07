@@ -1,10 +1,25 @@
+* {
+    font-family: monospace;
+}
+body {
+    font-size: 10px;
+}
+
 h1{
     color: crimson;
 }
 .section{
-    border: 1px solid red;
+    border: 10px solid red;
     margin: 20px 5px 10px 7px;
     padding: 10px 20px;
-    
+}
+#section4-title{
+    color: aqua;
+    font-size: 80px;
+}
 
+section p {
+    /* font-family: sans-serif; */
+    color: royalblue;
+    /* font-size: larger; */
 }
